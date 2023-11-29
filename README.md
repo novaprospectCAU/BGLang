@@ -1,2 +1,2 @@
 # BGLang
-by C++
+by Javascript
